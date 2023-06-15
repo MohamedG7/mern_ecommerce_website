@@ -23,8 +23,10 @@
     "moment": "^2.29.1",
     "mongoose": "^6.0.8",
     "nodemailer": "^6.7.0",
-    "nodemon": "^2.0.13",
     "stripe": "^8.178.0",
     "validator": "^13.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }
